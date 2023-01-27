@@ -35,7 +35,6 @@ function App() {
 
 
   //Credenciales Administrador: usuario: admin@pkstore.cl - Contraseña: 12345
-  //Deploy Netlify: https://cheerful-cobbler-4e18bf.netlify.app/home
 
   const [usuario, setUsuario] = useLocalStorage('usuarios', [{ id: 1, nombre: 'Administrador', apellido: 'Tienda', email: 'admin@pkstore.cl', contraseña: '12345', tipo: 0, carro: [], favoritos: [] }]);
   const [session, setSession] = useLocalStorage('sesion', null);
