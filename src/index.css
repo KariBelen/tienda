@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html{
+  min-height: 100%;
+  position: relative;
+}
+
+.custom-bg-primary {
+  background-color: #7c21e7;
+}
+
+.bg-section {
+  background-color: #e9e9e9;
+}
+
+.navlink {
+  text-decoration: none;
+  color: #fff;
+  padding: .5rem;
+}
+
+.navlink:hover {
+  color: rgb(255, 47, 0)
+}
+
+.droplink {
+  text-decoration: none;
+  color: #000;
+}
+
+.droplink:hover {
+  color: rgb(255, 47, 0)
+}
+
+.link {
+  text-decoration: none;
+  color: #000;
+  padding: .5rem;
+}
+
+.link:hover {
+  color: #fff
+}
+
+.title:hover {
+  color: #8C3DEA;
+}
+
+.button-color{
+  background-color: #7c21e7;
+}
+
+.container-page{
+  margin-bottom: 150px;
+}

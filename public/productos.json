@@ -1,0 +1,124 @@
+[
+    {
+        "id": 1,
+        "nombre": "Polera Graduacion Flork",
+        "descripcion": "Polera 100% Algodon con Sublimacion MEME Flork para Graduacion",
+        "img": "https://i.ibb.co/yNT5Prt/1.png",
+        "precio": 14500,
+        "tipo": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Polera GrillFather",
+        "descripcion": "Polera 100% Algodon con Estampado Vinilico de Padre Parrillero",
+        "img": "https://i.ibb.co/hW0SjNN/4.png",
+        "precio": 12500,
+        "tipo": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Polera Mejor Padre de la Galaxia",
+        "descripcion": "Polera 100% Algodon con Estampado Vinilico con Tematica de Star Wars",
+        "img": "https://i.ibb.co/cNyKGBC/3.png",
+        "precio": 12500,
+        "tipo": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Polera El Baron de la Cerveza",
+        "descripcion": "Polera 100% Algodon Sublimado con Tematica de Los SIMPSONS.",
+        "img": "https://i.ibb.co/T24t6qX/5.png",
+        "precio": 11500,
+        "tipo": 1
+    },
+    {
+        "id": 5,
+        "nombre": "Polera Mejores Amigos",
+        "descripcion": "Polera 100% Algodon Sublimado con Tematica de Mejores Amigos.",
+        "img": "https://i.ibb.co/fYNdxvT/7.png",
+        "precio": 11500,
+        "tipo": 1
+    },
+    {
+        "id": 6,
+        "nombre": "Carcasa Positiva",
+        "descripcion": "Carcasa Ultra Resistente para celulares Iphone, Xiaomi, Samsung, Huawei. ",
+        "img": "https://i.ibb.co/TkSTZgD/5.png",
+        "precio": 9990,
+        "tipo": 2
+    },
+    {
+        "id": 7,
+        "nombre": "Carcasa Gatito Kawai",
+        "descripcion": "Carcasa Ultra Resistente para celulares Iphone, Xiaomi, Samsung, Huawei. ",
+        "img": "https://i.ibb.co/pWzSkCB/8.png",
+        "precio": 9990,
+        "tipo": 2
+    },
+    {
+        "id": 8,
+        "nombre": "Carcasa Anime M-1",
+        "descripcion": "Carcasa Ultra Resistente para celulares Iphone, Xiaomi, Samsung, Huawei. ",
+        "img": "https://i.ibb.co/BgVQB0n/1.png",
+        "precio": 9990,
+        "tipo": 2
+    },
+    {
+        "id": 9,
+        "nombre": "Carcasa Anime M-2",
+        "descripcion": "Carcasa Ultra Resistente para celulares Iphone, Xiaomi, Samsung, Huawei. ",
+        "img": "https://i.ibb.co/Nxw5DS6/3.png",
+        "precio": 9990,
+        "tipo": 2
+    },
+    {
+        "id": 10,
+        "nombre": "Carcasa Anime M-3",
+        "descripcion": "Carcasa Ultra Resistente para celulares Iphone, Xiaomi, Samsung, Huawei. ",
+        "img": "https://i.ibb.co/BtFSJjX/4.png",
+        "precio": 9990,
+        "tipo": 2
+    },
+    {
+        "id": 11,
+        "nombre": "Carcasa 100% Personalizable",
+        "descripcion": "Carcasa Ultra Resistente para celulares Iphone, Xiaomi, Samsung, Huawei. Envianos tu imagen y la adaptaremos a tu modelo de celular. ",
+        "img": "https://i.ibb.co/X3jcwGR/11.png",
+        "precio": 12990,
+        "tipo": 2
+    },
+    {
+        "id": 12,
+        "nombre": "Agenda TENS 2023",
+        "descripcion": "Agenda Tapa Dura con Organizador Semanal año 2023 para Tecnicos en Enfermeria",
+        "img": "https://i.ibb.co/kmsM8b9/6.png",
+        "precio": 12990,
+        "tipo": 3
+    },
+    {
+        "id": 13,
+        "nombre": "Agenda Control Pediatrico 2023",
+        "descripcion": "Agenda para control pediatrico Bebe para Sistema Privado de Salud, incluye tablas de crecimiento, control de vacunas, etc.",
+        "img": "https://i.ibb.co/mvXJRTy/20.png",
+        "precio": 12990,
+        "tipo": 3
+    },
+    {
+        "id": 14,
+        "nombre": "Planner Mensual para Matronas Año 2023",
+        "descripcion": "Planner Organizador Mensual para Matronas, incluye tabla de pendientes, libreta de contactos, etc.",
+        "img": "https://i.ibb.co/vJcD4n5/16.png",
+        "precio": 12990,
+        "tipo": 3
+    },
+    {
+        "id": 15,
+        "nombre": "Agenda BTS Año 2023",
+        "descripcion": "Agenda con Tematica de BTS para el Año 2023, Incluye libreta de contactos, calendario Menstrual, Stikers de BTS, etc.",
+        "img": "https://i.ibb.co/0Fv0rjJ/agenda2.png",
+        "precio": 12990,
+        "tipo": 3
+    }
+]
+
+
